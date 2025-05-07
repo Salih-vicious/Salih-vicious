@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Salih-vicious
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Selehadin Nesredin
+- 👀 I’m interested in web development,especially in builing user-friendly full-stack applications
+- 💞️ I’m looking to collaborate on open-source projects, internship, and developer communities
+- 📫 How to reach me truesalih7017@gmail.com or connect via LinkedIn
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love turining creative ideas into real web experiences and building tools that make life easier!
 
-<!---
-Salih-vicious/Salih-vicious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm undergraduate computer science student at Haramaya University, living in Addis Ababa.
