@@ -5,4 +5,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turining creative ideas into real web experiences and building tools that make life easier!
 
-I'm an undergraduate computer science student at Haramaya University, living in Addis Ababa.
+I'm an undergraduate computer science student at Haramaya University, living in Addis Ababa. 
